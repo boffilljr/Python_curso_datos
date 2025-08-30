@@ -1,0 +1,3 @@
+variable,n_Dry,n_Rainy,U,p_valor,alternative,decision(alpha=0.05)
+DIC (µmol/kg),72,34,1942.5,1.1746695070093673e-06,two-sided,diferencia_significativa
+Temperatura (°C),72,34,551.0,5.317160670684041e-06,two-sided,diferencia_significativa

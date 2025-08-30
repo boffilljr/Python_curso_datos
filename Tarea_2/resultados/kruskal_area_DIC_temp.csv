@@ -1,0 +1,3 @@
+variable,factor,k_grupos,gl,H,p_valor,decision(alpha=0.05),conteos_por_grupo
+DIC (µmol/kg),area,3,2,55.889669058187486,7.306553461098262e-13,diferencias_significativas,Coast:36; Plume:35; River:35
+Temperatura (°C),area,3,2,7.6996429549091365,0.021283535690208223,diferencias_significativas,Coast:36; Plume:35; River:35

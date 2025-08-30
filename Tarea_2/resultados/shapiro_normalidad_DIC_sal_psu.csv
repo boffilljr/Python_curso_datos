@@ -1,0 +1,3 @@
+variable,n_original,n_analizado,W,p_valor,decision(alpha=0.05)
+DIC (µmol/kg),106,106,0.8599733710289001,1.3836563894642495e-08,rechaza_normalidad
+Salinidad (PSU),106,106,0.8866634368896484,1.8387164857358584e-07,rechaza_normalidad
