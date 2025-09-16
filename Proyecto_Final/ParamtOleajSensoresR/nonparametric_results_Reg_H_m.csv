@@ -1,0 +1,5 @@
+variable,design,k,test,comparison,statistic,p_value,p_adjusted
+H [m],paired,3,Friedman,global,43.55000000000007,3.493314258792029e-10,
+H [m],paired,3,Wilcoxon (post-hoc),H10T12 vs H10T25,34.0,6.775735528208315e-09,2.0327206584624946e-08
+H [m],paired,3,Wilcoxon (post-hoc),H10T12 vs H10T30,10.0,7.821654435247183e-11,2.346496330574155e-10
+H [m],paired,3,Wilcoxon (post-hoc),H10T25 vs H10T30,338.0,0.34032321635640983,1.0

@@ -1,0 +1,4 @@
+type,variable,group,n,normality_test,normality_stat,normality_p,normal_ok,p_levene,p_bartlett,homoc_ok,param_ok
+Reg,mean eta [m],H10T12,0,,,,False,,,True,True
+Reg,mean eta [m],H10T25,0,,,,False,,,True,True
+Reg,mean eta [m],H10T30,0,,,,False,,,True,True

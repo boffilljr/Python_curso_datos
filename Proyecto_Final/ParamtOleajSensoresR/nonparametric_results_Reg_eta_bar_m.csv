@@ -1,0 +1,5 @@
+variable,design,k,test,comparison,statistic,p_value,p_adjusted
+eta_bar [m],paired,3,Friedman,global,30.05000000000001,2.983495652978968e-07,
+eta_bar [m],paired,3,Wilcoxon (post-hoc),H10T12 vs H10T25,190.0,0.0025129065124929184,0.007538719537478755
+eta_bar [m],paired,3,Wilcoxon (post-hoc),H10T12 vs H10T30,178.0,0.0013674832061951747,0.004102449618585524
+eta_bar [m],paired,3,Wilcoxon (post-hoc),H10T25 vs H10T30,153.0,0.0003364373387739761,0.0010093120163219282
